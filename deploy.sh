@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VARIABLES
-rg=plslb
+rg=pls-public
 loc=eastus
 
 BLACK="\033[30m"
